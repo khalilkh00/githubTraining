@@ -1,3 +1,4 @@
 myvirtualenv
 sum.*
 .env
+__pycache__
