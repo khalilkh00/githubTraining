@@ -1,7 +1,7 @@
 import numpy as np
+import somme as sm
 
-a = np.zeros((2,2))
 
-print(a)
+print(sum(5,4))
 
 
